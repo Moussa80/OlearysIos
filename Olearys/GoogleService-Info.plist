@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511242215602-4luntvdntfjgolbmmp6511aqjf85bdbq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511242215602-4luntvdntfjgolbmmp6511aqjf85bdbq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9Ve9Uzbqn81TmhXDPBXkWbi86i48V39Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511242215602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hotmail-Ellakki.moussa.Olearys</string>
+	<key>PROJECT_ID</key>
+	<string>realolearys</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realolearys.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511242215602:ios:eedbe93a31e22bb005e9ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://realolearys-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
