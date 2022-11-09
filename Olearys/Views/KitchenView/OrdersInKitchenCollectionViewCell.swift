@@ -29,6 +29,7 @@ class OrdersInKitchenCollectionViewCell:  UICollectionViewCell , UITableViewDele
         }else{
             cell.guestTypeLabel.backgroundColor = Clr.tableBusy
         }
+        cell.selectionStyle = .none
         return cell
     }
     

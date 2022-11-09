@@ -39,15 +39,23 @@ class PaymentViewController: UIViewController  , UITableViewDelegate , UITableVi
     
         cell.order = observeDataInFireBase.table.guests[indexPath.row].types
         cell.viewWidth = Double (view.frame.width)
+        cell.selectionStyle = .none
+         
         cell.guestOrderCollectionView.reloadData()
         return cell
     }
+    
+    
+  
     
     @IBAction func payForWholeTableButton(_ sender: Any) {
         removeDataInFireBase.TablePaid(tableNumber: table.number)
         self.navigationController?.popViewController(animated: true)
         
     }
+    
+ 
+  
     
     
 }
